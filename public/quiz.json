@@ -1,0 +1,694 @@
+[
+    {
+      "id": "6488914b4cd3f064f443dbfd",
+      "question": "Which planet is third in mass and eighth from the sun?",
+      "options": ["Saturn", "Uranus","Neptune",  "Venus"],
+      "answer": "Neptune"
+    },
+    {
+      "id": "63f3950f989356ef48370bfe",
+      "question": "Which of these planets has the most moons?",
+      "options": ["Mars",  "Neptune","Jupiter", "Earth"],
+      "answer": "Jupiter"
+    },
+    {
+      "id": "63f39512989356ef48370c03",
+      "question": "Which planet in the solar system comes the closest to Earth?",
+      "options": ["Mars", "Venus", "Jupiter", "Neptune"],
+      "answer": "Venus"
+    },
+    {
+      "id": "63f394f9989356ef48370bd1",
+      "question": "What is the second smallest planet in the Solar System?",
+      "options": ["Jupiter", "Mars", "Earth", "Venus"],
+      "answer": "Mars"
+    },
+    {
+      "id": "645bc180f09106226db235a3",
+      "question": "What concept is measured by a light year?",
+      "options": ["Mass", "Time", "Distance", "Brightness"],
+      "answer": "Distance"
+    },
+    {
+      "id": "622a1c3a7cc59eab6f9510af",
+      "question": "Name The SI Unit Of Pressure",
+      "options": ["Borland", "Newton", "Pascal", "Ohm"],
+      "answer": "Pascal"
+    },
+    {
+      "id": "647edb8d520523194910c34c",
+      "question": "What adjective, from the Greek word for 'moving', describes the mechanical energy of an object due to motion?",
+      "options": ["Potential", "Kinetic", "Static", "Thermal"],
+      "answer": "Kinetic"
+    },
+    {
+      "id": "63a03952c7d86251f9b65c40",
+      "question": "What is the approximate temperature of the universe?",
+      "options": ["273 K", "27.3 K", "2730 K", "2.73 K"],
+      "answer": "2.73 K"
+    },
+    {
+      "id": "647f9db33a4302a719271610",
+      "question": "What do you have to do to convert a Kelvin temperature to Celsius?",
+      "options": ["Add 273.15", "Add 100", "Multiply by 3.14", "Subtract 32"],
+      "answer": "Add 273.15"
+    },
+    {
+      "id": "646140b74d46e537ca8cda0a",
+      "question": "What is the name of the second-largest planet in our solar system?",
+      "options": ["Jupiter", "Saturn", "Uranus", "Mars"],
+      "answer": "Saturn"
+    },
+    {
+      "id": "646089e1de964ebc39016c90",
+      "question": "Which space shuttle, commanded by John Young, was the first manned U.S. spacecraft to land on land on April 14, 1981?",
+      "options": ["Endeavour", "Challenger", "Discovery", "Columbia"],
+      "answer": "Columbia"
+    },
+    {
+      "id": "646140774d46e537ca8cd9b4",
+      "question": "What is the name of the state of matter that has no fixed shape or volume?",
+      "options": ["Solid", "Gas", "Liquid", "Atomic"],
+      "answer": "Gas"
+    },
+    {
+      "id": "6461407e4d46e537ca8cd9e5",
+      "question": "What is the name of the number that represents how fast something is travelling relative to the speed of sound?",
+      "options": ["Chain Number", "Sound Multiple", "Speed Ratio Number", "Mach Number"],
+      "answer": "Mach Number"
+    },
+    {
+      "id": "6505704b7a97013de78b5577",
+      "question": "What made the space shuttle different from previous orbital spacecraft?",
+      "options": ["It was reusable", "It didn't enter outer space", "It didn't use fuel", "It had no rocket engines"],
+      "answer": "It was reusable"
+    },
+    {
+      "id": "622a1c3e7cc59eab6f952253",
+      "question": "In space talk, what do the initials FTL stand for?",
+      "options": ["Feasible To Live", "Far Telescopic Light", "Field Transform Loop", "Faster Than Light"],
+      "answer": "Faster Than Light"
+    },
+    {
+      "id": "63a0396dc7d86251f9b65c57",
+      "question": "What is the approximate temperature of an interstellar gas cloud?",
+      "options": ["1,000 K", "10,000 K", "100 K", "10 K"],
+      "answer": "10 K"
+    },
+    {
+      "id": "63f3951d989356ef48370c1c",
+      "question": "Which planet has the most extreme temperature variations?",
+      "options": ["Earth", "Mars", "Venus", "Mercury"],
+      "answer": "Mercury"
+    },
+    {
+      "id": "6477bada550bc819ad646b53",
+      "question": "Which physicist caused a stir in 2014 when he retracted his 1974 theory about black holes, stating that light may be able to escape them after all?",
+      "options": ["Richard Feynman", "Issac Newton", "Albert Einstein", "Stephen Hawking"],
+      "answer": "Stephen Hawking"
+    },
+    {
+      "id": "64626250ab138b829b81e9ff",
+      "question": "Which planet in our solar system has a moon named Phobos that is a similar distance from the planet as Chicago is from London?",
+      "options": ["Uranus", "Venus", "Mars", "Jupiter"],
+      "answer": "Mars"
+    },
+    {
+      "id": "6461403b4d46e537ca8cd999",
+      "question": "What is the name of the force that resists the forward motion of a moving airplane?",
+      "options": ["Lift", "Gravity", "Thrust", "Drag"],
+      "answer": "Drag"
+    },
+    {
+      "id": "647f9deb3a4302a719271659",
+      "question": "What term refers to a condition of very small gravitational forces?",
+      "options": ["Zero gravity", "Minigravity", "Microgravity", "Hypergravity"],
+      "answer": "Microgravity"
+    },
+    {
+      "id": "6498a3c00752843c0d8aadfb",
+      "question": "What is the last name of the 17th-century astronomer known as Galileo?",
+      "options": ["Newton", "Kepler", "Einstein", "Galilei"],
+      "answer": "Galilei"
+    },
+    {
+      "id": "6477bb12550bc819ad646b60",
+      "question": "What scientific term refers to a temperature of -273 Celsius?",
+      "options": ["The point of no return", "Boiling point", "Freezing point", "Absolute zero"],
+      "answer": "Absolute zero"
+    },
+    {
+      "id": "647a126555463d5ce2994ff0",
+      "question": "What is the name of the natural phenomenon that occurs when particles from the solar wind interact with gases in the atmosphere?",
+      "options": ["Twilight", "Dawn", "Eclipse", "Aurora"],
+      "answer": "Aurora"
+    },
+    {
+      "id": "622a1c3a7cc59eab6f9510a9",
+      "question": "What is the name of the closest large spiral galaxy to our galaxy?",
+      "options": ["Hercules", "Ursa", "Andromeda", "Orion"],
+      "answer": "Andromeda"
+    },
+    {
+        "id": "70",
+        "question": "What is the name of the phenomenon where light from a distant object is bent due to the gravitational field of a massive object?",
+        "options": ["Lens Flare", "Gravitational Lensing", "Light Diffraction", "Optical Distortion"],
+        "answer": "Gravitational Lensing"
+      },
+      {
+        "id": "71",
+        "question": "Which moon in our solar system is known for its intense geysers erupting from beneath its icy surface?",
+        "options": ["Titan", "Enceladus", "Europa", "Ganymede"],
+        "answer": "Enceladus"
+      },
+      {
+        "id": "72",
+        "question": "What is the name of the spacecraft that successfully landed the rover 'Perseverance' on Mars in 2021?",
+        "options": ["Curiosity", "Opportunity", "Spirit", "Ingenuity"],
+        "answer": "Perseverance"
+      },
+      {
+        "id": "73",
+        "question": "Which star system is closest to the solar system?",
+        "options": ["Alpha Centauri", "Sirius", "Proxima Centauri", "Betelgeuse"],
+        "answer": "Alpha Centauri"
+      },
+      {
+        "id": "74",
+        "question": "What is the name of the largest known asteroid in the asteroid belt between Mars and Jupiter?",
+        "options": ["Ceres", "Vesta", "Eris", "Pallas"],
+        "answer": "Ceres"
+      },
+      {
+        "id": "75",
+        "question": "Which spacecraft made the first successful flyby of Pluto in 2015, providing detailed images of the dwarf planet?",
+        "options": ["Voyager 1", "New Horizons", "Cassini-Huygens", "Pioneer 10"],
+        "answer": "New Horizons"
+      },
+      {
+        "id": "76",
+        "question": "What is the name of the dark matter particle that is believed to make up a significant portion of the universe's mass?",
+        "options": ["Axion", "WIMP", "Neutrino", "Quark"],
+        "answer": "WIMP (Weakly Interacting Massive Particle)"
+      },
+      {
+        "id": "77",
+        "question": "Which planet has the fastest rotation, completing one rotation in less than 10 hours?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Jupiter"
+      },
+      {
+        "id": "78",
+        "question": "What is the name of the massive galaxy cluster that acts as a gravitational lens, distorting and magnifying light from galaxies behind it?",
+        "options": ["Coma Cluster", "Virgo Cluster", "Bullet Cluster", "El Gordo"],
+        "answer": "El Gordo (The Fat One)"
+      },
+      {
+        "id": "79",
+        "question": "In 2016, scientists detected gravitational waves for the first time, confirming a prediction made by which physicist in 1916?",
+        "options": ["Albert Einstein", "Niels Bohr", "Werner Heisenberg", "Max Planck"],
+        "answer": "Albert Einstein"
+      },
+      {
+        "id": "80",
+        "question": "What is the name of the theory that suggests our universe is just one of many universes, each with its own set of physical laws?",
+        "options": ["Quantum Mechanics", "String Theory", "Multiverse Theory", "Relativity"],
+        "answer": "Multiverse Theory"
+      },
+      {
+        "id": "81",
+        "question": "Which space telescope is designed to study the dark energy that is accelerating the expansion of the universe?",
+        "options": ["Kepler Space Telescope", "Planck Space Observatory", "Euclid Space Telescope", "James Webb Space Telescope"],
+        "answer": "Euclid Space Telescope"
+      },
+      {
+        "id": "82",
+        "question": "What is the name of the spacecraft that carried humans to the moon in the Apollo 13 mission, which famously faced technical issues en route?",
+        "options": ["Apollo 11", "Apollo 13", "Apollo 17", "Apollo 14"],
+        "answer": "Apollo 13"
+      },
+      {
+        "id": "83",
+        "question": "Which phenomenon occurs when a massive star collapses and its outer layers are ejected into space, creating a luminous display of gas and dust?",
+        "options": ["Nebula", "Supernova", "Black Hole", "Pulsar"],
+        "answer": "Supernova"
+      },
+      {
+        "id": "84",
+        "question": "What is the name of the largest moon of Saturn, known for its thick atmosphere and orange color?",
+        "options": ["Titan", "Enceladus", "Io", "Rhea"],
+        "answer": "Titan"
+      },
+      {
+        "id": "85",
+        "question": "Which space mission discovered the first evidence of liquid water on Mars, providing insights into the potential for life?",
+        "options": ["Mars Odyssey", "Mars Express", "Mars Reconnaissance Orbiter", "Mars Global Surveyor"],
+        "answer": "Mars Reconnaissance Orbiter"
+      },
+      {
+        "id": "86",
+        "question": "What is the name of the boundary surrounding a black hole beyond which nothing can escape, not even light?",
+        "options": ["Event Horizon", "Singularity", "Photon Sphere", "Hawking Radius"],
+        "answer": "Event Horizon"
+      },
+      {
+        "id": "87",
+        "question": "Which moon of Jupiter has a highly volcanic surface with plumes of water vapor erupting from its interior?",
+        "options": ["Ganymede", "Europa", "Io", "Callisto"],
+        "answer": "Io"
+      },
+      {
+        "id": "88",
+        "question": "What is the name of the space probe that made the first successful landing on a comet in 2014?",
+        "options": ["Rosetta", "Voyager 1", "New Horizons", "Cassini-Huygens"],
+        "answer": "Rosetta"
+      },
+      {
+        "id": "89",
+        "question": "In 2019, which interstellar object became the second observed object from outside the solar system passing through our system?",
+        "options": ["Oumuamua", "Borisov", "Hyakutake", "Hale-Bopp"],
+        "answer": "Borisov"
+      },
+      {
+        "id": "90",
+        "question": "What is the name of the phenomenon where light emitted by an object moving away from an observer is shifted toward the red end of the spectrum?",
+        "options": ["Doppler Effect", "Cherenkov Radiation", "Zeeman Effect", "Photoelectric Effect"],
+        "answer": "Doppler Effect"
+      },
+      {
+        "id": "91",
+        "question": "Which space mission provided the first direct evidence of the existence of supermassive black holes at the centers of galaxies?",
+        "options": ["Chandra X-ray Observatory", "Hubble Space Telescope", "Fermi Gamma-ray Space Telescope", "Event Horizon Telescope"],
+        "answer": "Event Horizon Telescope"
+      },
+      {
+        "id": "92",
+        "question": "What is the name of the spacecraft that successfully landed the first rover, 'Sojourner,' on Mars in 1997?",
+        "options": ["Pathfinder", "Opportunity", "Spirit", "Curiosity"],
+        "answer": "Pathfinder"
+      },
+      {
+        "id": "93",
+        "question": "Which moon of Saturn is known for its prominent equatorial ridge, making it resemble a flying saucer?",
+        "options": ["Mimas", "Iapetus", "Tethys", "Rhea"],
+        "answer": "Iapetus"
+      },
+      {
+        "id": "94",
+        "question": "What is the name of the process by which stars convert helium into heavier elements like carbon and oxygen?",
+        "options": ["Nuclear Fusion", "Nuclear Fission", "Photosynthesis", "Chemical Reaction"],
+        "answer": "Nuclear Fusion"
+      }
+    
+    ,{
+      "id": "648891c34cd3f064f443dc58",
+      "question": "What is the name of the constellation that is commonly known as 'Big Bear'?",
+      "options": ["Leo Major", "Canis Major", "Cygnus Major", "Ursa Major"],
+      "answer": "Ursa Major"
+    },
+    {
+      "id": "645b9ebcf09106226db23570",
+      "question": "What is the other name for the Celsius temperature scale, meaning 'divided into one hundred parts'?",
+      "options": ["Fahrenheit", "Kelvin", "Rankine", "Centigrade"],
+      "answer": "Centigrade"
+    },
+    {
+      "id": "63f39516989356ef48370c0d",
+      "question": "Which is the densest planet in the Solar System?",
+      "options": ["Neptune", "Saturn", "Jupiter", "Earth"],
+      "answer": "Earth"
+    },
+    {
+      "id": "646089e4de964ebc39016ca0",
+      "question": "According to Boyle's Law, what increases when a gas is compressed to half its size?",
+      "options": ["Volume", "Luminescence", "Pressure", "Temperature"],
+      "answer": "Pressure"
+    },
+    {
+      "id": "622a1c397cc59eab6f950fb0",
+      "question": "Who proposed The Theory of Relativity?",
+      "options": ["Enrico Fermi", "Paul Dirac", "Stephen Hawking", "Albert Einstein"],
+      "answer": "Albert Einstein"
+    },
+    {
+      "id": "64fb150b717513cb79190390",
+      "question": "Which planet has the longest orbit around the sun?",
+      "options": ["Saturn", "Uranus", "Jupiter", "Neptune"],
+      "answer": "Neptune"
+    },
+    {
+      "id": "63f39514989356ef48370c08",
+      "question": "Which is the hottest planet in the Solar System?",
+      "options": ["Jupiter", "Venus", "Mars", "Mercury"],
+      "answer": "Venus"
+    },
+    {
+      "id": "622a1c3a7cc59eab6f9510a4",
+      "question": "The tides on the earth's oceans are actually created by gravitational pull from the ____.",
+      "options": ["International Space Station", "Sun", "Moon", "Milky Way"],
+      "answer": "Moon"
+    },
+    {
+      "id": "63f394fe989356ef48370bdb",
+      "question": "Which planet is known for having the Great Red Spot?",
+      "options": ["Mars", "Saturn", "Neptune", "Jupiter"],
+      "answer": "Jupiter"
+    },
+    {
+      "id": "63d952f9168979b94b2e4f66",
+      "question": "What is the smallest particle known to exist?",
+      "options": ["Proton", "Neutron", "Quark", "Atom"],
+      "answer": "Quark"
+    },
+    {
+      "id": "622a1c3e7cc59eab6f952249",
+      "question": "In the electomagnetic spectrum, what comes between X-rays and visible light?",
+      "options": ["Radio waves", "Gamma rays", "Infrared", "Ultraviolet light"],
+      "answer": "Ultraviolet light"
+    },
+    {
+      "id": "645c9f8642ea81e2554c5f38",
+      "question": "What is the Latin word for 'mountain' that follows Olympus and Pavonis in the names of Martian volcanoes?",
+      "options": ["Alpus", "Volcanus", "Patera", "Mons"],
+      "answer": "Mons"
+    },
+    {
+      "id": "63a03940c7d86251f9b65c2b",
+      "question": "What is the most common element in the universe?",
+      "options": ["Oxygen", "Nitrogen", "Hydrogen", "Helium"],
+      "answer": "Hydrogen"
+    },
+    {
+      "id": "6461407d4d46e537ca8cd9d7",
+      "question": "What kind of electronic tube is used to produce microwaves?",
+      "options": ["Magnetron", "Transistor", "Resistor", "Diode"],
+      "answer": "Magnetron"
+    },
+    {
+      "id": "63a0396bc7d86251f9b65c56",
+      "question": "What is the approximate radius of the Earth?",
+      "options": ["63 km", "63,710 km", "6,371 km", "637 km"],
+      "answer": "6,371 km"
+    },
+    {
+        "id": "1",
+        "question": "What is the largest planet in our solar system?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Jupiter"
+      },
+      {
+        "id": "2",
+        "question": "Which galaxy is the Milky Way closest to?",
+        "options": ["Andromeda", "Triangulum", "Centaurus A", "Bode's Galaxy"],
+        "answer": "Andromeda"
+      },
+      {
+        "id": "3",
+        "question": "What phenomenon occurs when a massive star collapses under its gravity, leading to a point of infinite density?",
+        "options": ["Supernova", "Black Hole", "Neutron Star", "White Dwarf"],
+        "answer": "Black Hole"
+      },
+      {
+        "id": "4",
+        "question": "In Einstein's theory of general relativity, what does massive objects like planets and stars do to the fabric of space-time?",
+        "options": ["Stretch", "Fold", "Weaken", "Stabilize"],
+        "answer": "Stretch"
+      },
+      {
+        "id": "5",
+        "question": "Which space mission successfully landed humans on the Moon for the first time in 1969?",
+        "options": ["Apollo 11", "Gemini 7", "Mercury-Redstone 3", "Vostok 1"],
+        "answer": "Apollo 11"
+      },
+      {
+        "id": "6",
+        "question": "What is the name of the largest volcano in our solar system, located on Mars?",
+        "options": ["Mount Everest", "Mauna Kea", "Olympus Mons", "Mount Vesuvius"],
+        "answer": "Olympus Mons"
+      },
+      {
+        "id": "7",
+        "question": "Which planet is known as the 'Red Planet'?",
+        "options": ["Mars", "Venus", "Mercury", "Jupiter"],
+        "answer": "Mars"
+      },
+      {
+        "id": "8",
+        "question": "What is the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?",
+        "options": ["Explorer 1", "Sputnik 1", "Vanguard 1", "Hubble Space Telescope"],
+        "answer": "Sputnik 1"
+      },
+      {
+        "id": "9",
+        "question": "How many moons does Jupiter have?",
+        "options": ["63", "79", "27", "45"],
+        "answer": "79"
+      },
+      {
+        "id": "10",
+        "question": "What is the name of the region in space where the gravitational pull of a celestial body is so strong that nothing, not even light, can escape?",
+        "options": ["Event Horizon", "Singularity", "Dark Matter", "Quasar"],
+        "answer": "Event Horizon"
+      },
+      {
+        "id": "11",
+        "question": "Which space telescope has provided stunning images of distant galaxies and nebulae since its launch in 1990?",
+        "options": ["Chandra X-ray Observatory", "James Webb Space Telescope", "Hubble Space Telescope", "Spitzer Space Telescope"],
+        "answer": "Hubble Space Telescope"
+      },
+      {
+        "id": "12",
+        "question": "What is the name of the process by which a star transforms hydrogen into helium, releasing a tremendous amount of energy?",
+        "options": ["Fusion", "Fission", "Sublimation", "Evaporation"],
+        "answer": "Fusion"
+      },
+      {
+        "id": "13",
+        "question": "Which spacecraft made the first successful landing on Titan, Saturn's largest moon, in 2005?",
+        "options": ["Cassini-Huygens", "Voyager 1", "New Horizons", "Curiosity"],
+        "answer": "Cassini-Huygens"
+      },
+      {
+        "id": "14",
+        "question": "What is the Great Red Spot on Jupiter?",
+        "options": ["Storm", "Volcano", "Aurora", "Crater"],
+        "answer": "Storm"
+      },
+      {
+        "id": "15",
+        "question": "In 1961, which human became the first to journey into outer space?",
+        "options": ["Yuri Gagarin", "John Glenn", "Neil Armstrong", "Buzz Aldrin"],
+        "answer": "Yuri Gagarin"
+      },
+      {
+        "id": "16",
+        "question": "What is the Kuiper Belt?",
+        "options": ["A region of asteroids between Mars and Jupiter", "A distant galaxy cluster", "A region of comets beyond Neptune", "A belt of Saturn's rings"],
+        "answer": "A region of comets beyond Neptune"
+      },
+      {
+        "id": "17",
+        "question": "Which star is the closest to Earth (other than the Sun)?",
+        "options": ["Proxima Centauri", "Alpha Centauri A", "Betelgeuse", "Sirius"],
+        "answer": "Proxima Centauri"
+      },
+      {
+        "id": "18",
+        "question": "What is the Chandrasekhar limit?",
+        "options": ["The distance between two galaxies", "The maximum mass of a white dwarf before it collapses into a neutron star", "The temperature at the core of the Sun", "The speed of light"],
+        "answer": "The maximum mass of a white dwarf before it collapses into a neutron star"
+      },
+      {
+        "id": "19",
+        "question": "Which moon of Jupiter is known for its intense volcanic activity?",
+        "options": ["Europa", "Io", "Ganymede", "Callisto"],
+        "answer": "Io"
+      },
+      {
+        "id": "20",
+        "question": "What is the Goldilocks Zone in planetary science?",
+        "options": ["The zone around a star where life is most likely to exist", "A region with optimal temperature for brewing coffee", "The zone around a black hole where time stands still", "A region of intense magnetic activity on the Sun"],
+        "answer": "The zone around a star where life is most likely to exist"
+      },
+      {
+        "id": "21",
+        "question": "Which spacecraft provided the first close-up images of Pluto in 2015?",
+        "options": ["New Horizons", "Voyager 2", "Cassini", "Rosetta"],
+        "answer": "New Horizons"
+      },
+      {
+        "id": "22",
+        "question": "What is the escape velocity from Earth's surface in kilometers per second?",
+        "options": ["7.8 km/s", "11.2 km/s", "15.0 km/s", "20.4 km/s"],
+        "answer": "11.2 km/s"
+      },
+      {
+        "id": "23",
+        "question": "Which phenomenon occurs when a planet or a celestial body passes between the Earth and the Sun, appearing to 'transit' the Sun's disk?",
+        "options": ["Lunar Eclipse", "Solar Eclipse", "Asteroid Belt Transit", "Mercury Transit"],
+        "answer": "Mercury Transit"
+      },
+      {
+        "id": "24",
+        "question": "What is the primary component of Jupiter's atmosphere?",
+        "options": ["Methane", "Hydrogen", "Nitrogen", "Carbon Dioxide"],
+        "answer": "Hydrogen"
+      },
+      {
+        "id": "25",
+        "question": "Which space mission successfully landed the Curiosity rover on Mars in 2012?",
+        "options": ["Mars Pathfinder", "Viking 1", "ExoMars", "Mars Science Laboratory"],
+        "answer": "Mars Science Laboratory"
+      },
+      {
+        "id": "26",
+        "question": "What is the Oort Cloud?",
+        "options": ["A region of icy bodies at the outer edge of the solar system", "A giant storm on Jupiter", "A cloud of interstellar gas and dust", "The densest part of a galaxy"],
+        "answer": "A region of icy bodies at the outer edge of the solar system"
+      },
+      {
+        "id": "27",
+        "question": "What is the purpose of the James Webb Space Telescope, set to launch in the near future?",
+        "options": ["Study exoplanets", "Search for extraterrestrial life", "Explore the Kuiper Belt", "Observe the early universe"],
+        "answer": "Observe the early universe"
+      },
+      {
+        "id": "28",
+        "question": "Which moon of Saturn is known for its prominent hydrocarbon lakes and seas?",
+        "options": ["Titan", "Enceladus", "Mimas", "Rhea"],
+        "answer": "Titan"
+      },
+      {
+        "id": "29",
+        "question": "What is the significance of the Hubble Constant in cosmology?",
+        "options": ["The rate of expansion of the universe", "The gravitational constant", "The speed of light", "The rate of radioactive decay"],
+        "answer": "The rate of expansion of the universe"
+      },
+      {
+        "id": "30",
+        "question": "Which space agency successfully launched the Perseverance rover to Mars in 2020?",
+        "options": ["NASA", "ESA", "Roscosmos", "ISRO"],
+        "answer": "NASA"
+      },
+      {
+        "id": "31",
+        "question": "What is the event horizon of a black hole?",
+        "options": ["The boundary beyond which nothing can escape its gravitational pull", "A bright ring around a black hole", "The point where a star turns into a black hole", "The region where Hawking radiation is emitted"],
+        "answer": "The boundary beyond which nothing can escape its gravitational pull"
+      },
+      {
+        "id": "32",
+        "question": "Which scientist proposed the concept of wormholes in spacetime?",
+        "options": ["Albert Einstein", "Stephen Hawking", "Kip Thorne", "Michio Kaku"],
+        "answer": "Albert Einstein"
+      },
+      {
+        "id": "33",
+        "question": "What is the approximate age of the universe?",
+        "options": ["13.8 billion years", "4.5 billion years", "7.2 billion years", "10.3 billion years"],
+        "answer": "13.8 billion years"
+      },
+      {
+        "id": "34",
+        "question": "Which galaxy is home to the Milky Way and Andromeda galaxies, among others?",
+        "options": ["Local Group", "Virgo Cluster", "Coma Cluster", "Fornax Cluster"],
+        "answer": "Local Group"
+      },
+      {
+        "id": "35",
+        "question": "What is the 'Roche Limit' in celestial mechanics?",
+        "options": ["The point at which a moon is captured by a planet's gravity", "The distance within which a celestial body, held together only by its gravity, will disintegrate due to tidal forces", "The point of closest approach of a comet to the Sun", "The boundary between the heliosphere and interstellar space"],
+        "answer": "The distance within which a celestial body, held together only by its gravity, will disintegrate due to tidal forces"
+      },
+      {
+        "id": "36",
+        "question": "Which type of galaxy has a distinct, flat disk with spiral arms?",
+        "options": ["Spiral Galaxy", "Elliptical Galaxy", "Irregular Galaxy", "Dwarf Galaxy"],
+        "answer": "Spiral Galaxy"
+      },
+      {
+        "id": "37",
+        "question": "What is the primary component of the atmospheres of Venus and Mars?",
+        "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Methane"],
+        "answer": "Carbon Dioxide"
+      },
+      {
+        "id": "38",
+        "question": "Which spacecraft successfully orbited and studied the dwarf planet Ceres in the asteroid belt?",
+        "options": ["New Horizons", "Dawn", "Rosetta", "Hayabusa2"],
+        "answer": "Dawn"
+      },
+      {
+        "id": "39",
+        "question": "What is the significance of the Drake Equation in the search for extraterrestrial intelligence?",
+        "options": ["Estimates the number of active, communicative extraterrestrial civilizations", "Predicts the orbit of newly discovered exoplanets", "Calculates the speed of light", "Measures the energy output of distant galaxies"],
+        "answer": "Estimates the number of active, communicative extraterrestrial civilizations"
+      },
+      {
+        "id": "40",
+        "question": "Which planet has the tallest volcano in our solar system, named Olympus Mons?",
+        "options": ["Mars", "Venus", "Earth", "Mercury"],
+        "answer": "Mars"
+      },
+      {
+        "id": "41",
+        "question": "What is the name of the largest moon in our solar system?",
+        "options": ["Titan", "Ganymede", "Callisto", "Europa"],
+        "answer": "Ganymede"
+      },
+      {
+        "id": "42",
+        "question": "Which space telescope is known for its observations in the infrared spectrum?",
+        "options": ["Hubble Space Telescope", "Spitzer Space Telescope", "Chandra X-ray Observatory", "Kepler Space Telescope"],
+        "answer": "Spitzer Space Telescope"
+      },
+      {
+        "id": "43",
+        "question": "What is the 'Great Red Spot' on Jupiter?",
+        "options": ["A massive storm", "A giant crater", "A mountain range", "A desert region"],
+        "answer": "A massive storm"
+      },
+      {
+        "id": "44",
+        "question": "Which moon of Saturn is known for its icy geysers?",
+        "options": ["Enceladus", "Titan", "Rhea", "Dione"],
+        "answer": "Enceladus"
+      },
+      {
+        "id": "45",
+        "question": "What is the primary gas in the atmosphere of Venus?",
+        "options": ["Carbon Dioxide", "Nitrogen", "Oxygen", "Methane"],
+        "answer": "Carbon Dioxide"
+      },
+      {
+        "id": "46",
+        "question": "Which space probe provided the first close-up images of Pluto in 2015?",
+        "options": ["New Horizons", "Voyager 2", "Cassini", "Rosetta"],
+        "answer": "New Horizons"
+      },
+      {
+        "id": "47",
+        "question": "What is the name of the phenomenon where a star collapses under gravity, resulting in a sudden increase in brightness?",
+        "options": ["Supernova", "Black Hole", "Nebula", "Quasar"],
+        "answer": "Supernova"
+      },
+      {
+        "id": "48",
+        "question": "What is the main constituent of the atmospheres of gas giants like Jupiter and Saturn?",
+        "options": ["Hydrogen", "Helium", "Methane", "Oxygen"],
+        "answer": "Hydrogen"
+      },
+      {
+        "id": "49",
+        "question": "Which galaxy is the nearest spiral galaxy to the Milky Way?",
+        "options": ["Andromeda", "Triangulum", "Centaurus A", "Whirlpool"],
+        "answer": "Andromeda"
+      },
+      {
+        "id": "50",
+        "question": "What is the name of the first artificial satellite launched into space?",
+        "options": ["Sputnik 1", "Explorer 1", "Vostok 1", "Apollo 11"],
+        "answer": "Sputnik 1"
+      }
+  ]
+  
